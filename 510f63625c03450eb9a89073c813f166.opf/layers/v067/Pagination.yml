@@ -21,70 +21,70 @@ annotations:
     reference: ''
     span:
       start: 2026
-      end: 3356
+      end: 3355
     note_ref: 1b4e513085df47e9b1cb81605d04e11a
   ea4e7b13dbbe4bad82d597034db4d5be:
     imgnum: 492
     reference: ''
     span:
-      start: 3358
-      end: 4667
+      start: 3357
+      end: 4666
     note_ref: 1b4e513085df47e9b1cb81605d04e11a
   0cd24874b9ec4f10bd591d9c9416f4d8:
     imgnum: 493
     reference: ''
     span:
-      start: 4669
-      end: 5945
+      start: 4668
+      end: 5944
     note_ref: bd94354ed6654a718eb580302356e036
   dd6bbb550131473aa9c0d2f5e47fff6f:
     imgnum: 494
     reference: ''
     span:
-      start: 5947
-      end: 7257
+      start: 5946
+      end: 7256
     note_ref: bd94354ed6654a718eb580302356e036
   cf2a909c7a514b19afd3d33a8f4aae15:
     imgnum: 495
     reference: ''
     span:
-      start: 7259
-      end: 8560
+      start: 7258
+      end: 8559
     note_ref: bd94354ed6654a718eb580302356e036
   f87ee92adc6d493bae31e10ee5ea7b36:
     imgnum: 496
     reference: ''
     span:
-      start: 8562
-      end: 9859
+      start: 8561
+      end: 9858
     note_ref: bd94354ed6654a718eb580302356e036
   cf7d3bb27f5c4cb9ab24ea93591c110c:
     imgnum: 497
     reference: ''
     span:
-      start: 9861
-      end: 11149
+      start: 9860
+      end: 11148
     note_ref: bd94354ed6654a718eb580302356e036
   fb0b75b363a047e88b506aa7175c7d84:
     imgnum: 498
     reference: ''
     span:
-      start: 11151
-      end: 12474
+      start: 11150
+      end: 12473
     note_ref: bd94354ed6654a718eb580302356e036
   1b4e513085df47e9b1cb81605d04e11a:
     imgnum: 499
     reference: ''
     span:
-      start: 12476
-      end: 13767
+      start: 12475
+      end: 13766
     note_ref: bd94354ed6654a718eb580302356e036
   bd94354ed6654a718eb580302356e036:
     imgnum: 500
     reference: ''
     span:
-      start: 13769
-      end: 14608
+      start: 13768
+      end: 14607
 local_ids:
   85594ee4f07444dc9bde8fadfa7074cb: 200000
   bcfdd552223a49108d19d555ae055f8f: 200001
